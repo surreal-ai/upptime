@@ -1,24 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: surreal-ai # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: www.surreal.la/home
+    url: https://www.surreal.la/home
+  - name: www.surreal.la/ai-renaissance
+    url: https://www.surreal.la/ai-renaissance
+  - name: Product
+    url: https://product.surreal-ai.com
+  - name: Vinci
+    url: https://vinci.surreal-ai.com
+  - name: Craft
+    url: https://craft-api.surreal-ai.com/v1/health_check
+  - name: /ai-presenter-v3
+    url: https://craft-api.surreal-ai.com/ai-presenter-v3
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: upptime.intra.surreal-ai.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
+  baseUrl: /upptime # where "repo" is your repository name
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:

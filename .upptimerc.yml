@@ -6,17 +6,19 @@ assignees:
   - luncj
   - buffxz
 sites:
-  - name: www.surreal.la/home
+  - name: homepage
     url: https://www.surreal.la/home
-  - name: www.surreal.la/ai-renaissance
+  - name: ai-renaissance
     url: https://www.surreal.la/ai-renaissance
   - name: Product
     url: https://product.surreal-ai.com
   - name: Vinci
     url: https://vinci.surreal-ai.com
-  - name: Craft
+  - name: ef-api
     url: https://craft-api.surreal-ai.com/v1/health_check
-  - name: /ai-presenter-v3
+  - name: api
+    url: https://api.surreal-ai.com/api/index/
+  - name: landing-page
     url: https://craft-api.surreal-ai.com/ai-presenter-v3
 
 status-website:

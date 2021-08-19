@@ -1,7 +1,7 @@
 url: https://craft-api.surreal-ai.com/ai-presenter-v3
-status: down
-code: 404
-responseTime: 234
-lastUpdated: 2021-08-19T15:17:58.665Z
+status: up
+code: 200
+responseTime: 370
+lastUpdated: 2021-08-19T15:36:24.876Z
 startTime: Tue Aug 10 2021 04:28:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

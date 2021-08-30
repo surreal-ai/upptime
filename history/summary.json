@@ -80,10 +80,10 @@
     "url": "https://craft-api.surreal-ai.com/v1/health_check",
     "icon": "https://favicons.githubusercontent.com/craft-api.surreal-ai.com",
     "slug": "ef-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1431,
@@ -91,7 +91,9 @@
     "timeWeek": 1289,
     "timeMonth": 1431,
     "timeYear": 1431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-30": 1
+    }
   },
   {
     "name": "api",

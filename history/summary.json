@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
-    "time": 956,
-    "timeDay": 1129,
-    "timeWeek": 802,
+    "time": 959,
+    "timeDay": 1071,
+    "timeWeek": 852,
     "timeMonth": 968,
-    "timeYear": 956,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2021-09-02": 31,
       "2021-09-01": 11
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 209,
+    "time": 210,
     "timeDay": 244,
-    "timeWeek": 171,
+    "timeWeek": 186,
     "timeMonth": 212,
-    "timeYear": 209,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2021-09-02": 31,
       "2021-09-01": 10
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1647,
-    "timeDay": 1757,
-    "timeWeek": 1547,
-    "timeMonth": 1753,
-    "timeYear": 1647,
+    "time": 1641,
+    "timeDay": 1423,
+    "timeWeek": 1556,
+    "timeMonth": 1729,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2021-08-18": 5
     }
@@ -67,16 +67,16 @@
     "icon": "https://favicons.githubusercontent.com/vinci.surreal-ai.com",
     "slug": "vinci",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1604,
-    "timeDay": 1624,
-    "timeWeek": 1322,
-    "timeMonth": 1695,
-    "timeYear": 1604,
+    "uptimeYear": "99.97%",
+    "time": 1593,
+    "timeDay": 1138,
+    "timeWeek": 1319,
+    "timeMonth": 1669,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2021-08-20": 18
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1449,
-    "timeDay": 933,
-    "timeWeek": 1318,
-    "timeMonth": 1463,
-    "timeYear": 1449,
+    "time": 1436,
+    "timeDay": 926,
+    "timeWeek": 1290,
+    "timeMonth": 1435,
+    "timeYear": 1436,
     "dailyMinutesDown": {
       "2021-08-30": 7
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1594,
-    "timeDay": 1163,
-    "timeWeek": 1389,
-    "timeMonth": 1578,
-    "timeYear": 1594,
+    "time": 1588,
+    "timeDay": 1347,
+    "timeWeek": 1383,
+    "timeMonth": 1566,
+    "timeYear": 1588,
     "dailyMinutesDown": {}
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 438,
-    "timeDay": 558,
-    "timeWeek": 440,
-    "timeMonth": 434,
-    "timeYear": 438,
+    "time": 436,
+    "timeDay": 363,
+    "timeWeek": 441,
+    "timeMonth": 422,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2021-08-19": 18
     }

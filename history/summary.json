@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
-    "time": 953,
-    "timeDay": 720,
-    "timeWeek": 858,
-    "timeMonth": 956,
-    "timeYear": 953,
+    "time": 962,
+    "timeDay": 1311,
+    "timeWeek": 947,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2021-09-02": 31,
       "2021-09-01": 11
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/www.surreal.la",
     "slug": "ai-renaissance",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
-    "time": 208,
-    "timeDay": 144,
-    "timeWeek": 186,
+    "uptimeYear": "99.93%",
+    "time": 209,
+    "timeDay": 241,
+    "timeWeek": 200,
     "timeMonth": 209,
-    "timeYear": 208,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2021-09-02": 31,
       "2021-09-01": 10
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1635,
-    "timeDay": 1347,
-    "timeWeek": 1572,
-    "timeMonth": 1727,
-    "timeYear": 1635,
+    "time": 1646,
+    "timeDay": 2132,
+    "timeWeek": 1679,
+    "timeMonth": 1744,
+    "timeYear": 1646,
     "dailyMinutesDown": {
       "2021-08-18": 5
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1593,
-    "timeDay": 1559,
-    "timeWeek": 1371,
-    "timeMonth": 1678,
-    "timeYear": 1593,
+    "time": 1579,
+    "timeDay": 969,
+    "timeWeek": 1342,
+    "timeMonth": 1672,
+    "timeYear": 1579,
     "dailyMinutesDown": {
       "2021-08-20": 18
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1429,
-    "timeDay": 1179,
-    "timeWeek": 1264,
-    "timeMonth": 1433,
-    "timeYear": 1429,
+    "time": 1418,
+    "timeDay": 1002,
+    "timeWeek": 1247,
+    "timeMonth": 1425,
+    "timeYear": 1418,
     "dailyMinutesDown": {
       "2021-08-30": 7
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1593,
-    "timeDay": 1793,
-    "timeWeek": 1443,
-    "timeMonth": 1580,
-    "timeYear": 1593,
+    "time": 1582,
+    "timeDay": 1161,
+    "timeWeek": 1414,
+    "timeMonth": 1572,
+    "timeYear": 1582,
     "dailyMinutesDown": {}
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 435,
-    "timeDay": 362,
-    "timeWeek": 440,
+    "time": 433,
+    "timeDay": 390,
+    "timeWeek": 444,
     "timeMonth": 421,
-    "timeYear": 435,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2021-08-19": 18
     }

@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.surreal.la",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
-    "time": 961,
-    "timeDay": 1053,
-    "timeWeek": 1007,
-    "timeMonth": 936,
-    "timeYear": 961,
+    "uptimeYear": "99.94%",
+    "time": 962,
+    "timeDay": 1010,
+    "timeWeek": 964,
+    "timeMonth": 931,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2021-09-02": 31,
       "2021-09-01": 11
@@ -32,8 +32,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 209,
-    "timeDay": 241,
-    "timeWeek": 212,
+    "timeDay": 244,
+    "timeWeek": 213,
     "timeMonth": 202,
     "timeYear": 209,
     "dailyMinutesDown": {
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1677,
-    "timeDay": 1841,
-    "timeWeek": 1946,
-    "timeMonth": 1756,
-    "timeYear": 1677,
+    "time": 1668,
+    "timeDay": 1199,
+    "timeWeek": 1813,
+    "timeMonth": 1730,
+    "timeYear": 1668,
     "dailyMinutesDown": {
       "2021-08-18": 5
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1573,
-    "timeDay": 1877,
-    "timeWeek": 1449,
-    "timeMonth": 1644,
-    "timeYear": 1573,
+    "time": 1565,
+    "timeDay": 1136,
+    "timeWeek": 1473,
+    "timeMonth": 1623,
+    "timeYear": 1565,
     "dailyMinutesDown": {
       "2021-08-20": 18
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1415,
-    "timeDay": 1707,
+    "time": 1407,
+    "timeDay": 999,
     "timeWeek": 1354,
-    "timeMonth": 1379,
-    "timeYear": 1415,
+    "timeMonth": 1367,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2021-09-18": 12,
       "2021-08-30": 7
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1618,
-    "timeDay": 2154,
-    "timeWeek": 1751,
-    "timeMonth": 1625,
-    "timeYear": 1618,
+    "time": 1613,
+    "timeDay": 1412,
+    "timeWeek": 1787,
+    "timeMonth": 1591,
+    "timeYear": 1613,
     "dailyMinutesDown": {}
   },
   {
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 437,
-    "timeDay": 464,
+    "time": 436,
+    "timeDay": 386,
     "timeWeek": 454,
-    "timeMonth": 431,
-    "timeYear": 437,
+    "timeMonth": 429,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2021-08-19": 18
     }

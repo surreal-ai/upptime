@@ -46,10 +46,10 @@
     "url": "https://product.surreal-ai.com",
     "icon": "https://favicons.githubusercontent.com/product.surreal-ai.com",
     "slug": "product",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1813,
@@ -58,6 +58,7 @@
     "timeMonth": 1958,
     "timeYear": 1813,
     "dailyMinutesDown": {
+      "2021-11-05": 1,
       "2021-10-07": 22,
       "2021-08-18": 5
     }
@@ -67,11 +68,11 @@
     "url": "https://vinci.surreal-ai.com",
     "icon": "https://favicons.githubusercontent.com/vinci.surreal-ai.com",
     "slug": "vinci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1531,
     "timeDay": 966,
@@ -79,6 +80,7 @@
     "timeMonth": 1495,
     "timeYear": 1531,
     "dailyMinutesDown": {
+      "2021-11-05": 0,
       "2021-10-07": 20,
       "2021-08-20": 18
     }

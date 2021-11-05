@@ -115,9 +115,9 @@
     "url": "https://api.surreal-ai.com/api/index/",
     "icon": "https://favicons.githubusercontent.com/api.surreal-ai.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -127,6 +127,7 @@
     "timeMonth": 1618,
     "timeYear": 1632,
     "dailyMinutesDown": {
+      "2021-11-05": 0,
       "2021-10-07": 15
     }
   },

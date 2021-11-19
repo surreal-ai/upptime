@@ -46,9 +46,9 @@
     "url": "https://product.surreal-ai.com",
     "icon": "https://favicons.githubusercontent.com/product.surreal-ai.com",
     "slug": "product",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
@@ -58,6 +58,7 @@
     "timeMonth": 1831,
     "timeYear": 1799,
     "dailyMinutesDown": {
+      "2021-11-19": 0,
       "2021-11-05": 5,
       "2021-10-07": 22,
       "2021-08-18": 5

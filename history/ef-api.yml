@@ -1,7 +1,7 @@
 url: https://craft-api.surreal-ai.com/v1/health_check
-status: up
-code: 200
-responseTime: 2515
-lastUpdated: 2022-03-24T23:17:33.278Z
+status: down
+code: 502
+responseTime: 1354
+lastUpdated: 2022-03-25T09:17:27.538Z
 startTime: Tue Aug 10 2021 04:28:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -192,7 +192,7 @@
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2022-06-09": 3
+      "2022-06-09": 28
     }
   },
   {
@@ -200,19 +200,19 @@
     "url": "https://craft-api.surreal-ai.com/pacific/v1/pacific/health_check",
     "icon": "https://favicons.githubusercontent.com/craft-api.surreal-ai.com",
     "slug": "movio",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 175,
-    "timeDay": 175,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2022-06-09": 3
+      "2022-06-09": 26
     }
   }
 ]

@@ -15,6 +15,13 @@ sites:
     url: https://vinci.surreal-ai.com
   - name: ef-api
     url: https://craft-api.surreal-ai.com/v1/health_check
+  - name: extend-api
+    url: https://extend-api.surreal-ai.com/v1/extend/health_check
+  - name: talking-avatar
+    url: https://craft-api.surreal-ai.com/v1/talking_avatar/health_check
+  - name: movio
+    url: https://craft-api.surreal-ai.com/pacific/v1/pacific/health_check
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

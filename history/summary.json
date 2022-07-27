@@ -170,19 +170,19 @@
     "url": "https://extend-api.surreal-ai.com/v1/extend/health_check",
     "icon": "https://favicons.githubusercontent.com/extend-api.surreal-ai.com",
     "slug": "extend-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 888,
-    "timeWeek": 982,
-    "timeMonth": 955,
-    "timeYear": 951,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.90%",
+    "time": 949,
+    "timeDay": 883,
+    "timeWeek": 970,
+    "timeMonth": 952,
+    "timeYear": 949,
     "dailyMinutesDown": {
-      "2022-07-27": 0
+      "2022-07-27": 67
     }
   },
   {
